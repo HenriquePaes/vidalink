@@ -1,0 +1,10 @@
+[caps]
+automationName="XCUITest"
+deviceName="emulator-5554"
+platformName="iOS"
+platformVersion="11"
+app="H:\Stellity\OneDrive\Desenvolvimento\Fabrica\Projetos\Auditeste\VidaLink\Junho 2021\Versão de Staging o APP\VidalinkBeta.app"
+autoAcceptAlerts=true
+[appium_lib]
+wait=20
+debug=false

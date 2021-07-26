@@ -1,0 +1,9 @@
+[caps]
+platformName="Android"
+deviceName="emulator-5554"
+app="H:\Stellity\OneDrive\Desenvolvimento\Fabrica\Projetos\Auditeste\VidaLink\Junho 2021\Versão de Staging o APP\app-beta-release.apk"
+autoGrantPermissions=true
+newCommandTimeout=3600
+[appium_lib]
+wait=20
+debug=false

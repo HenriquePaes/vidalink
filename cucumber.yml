@@ -1,0 +1,10 @@
+## YAML TEMPLATESSS
+
+---
+default:  -p HOMOLOG -p PRETTY -p HTML
+
+PRETTY:   --format pretty     # No console mostra os passos
+PROGRESS: --format progress   # No console não mostra os passos, recomendado para ambientes CI
+HOMOLOG:  AMBIENTE=homolog    # Sobe o arquivo de atributos para ambiente de Homologação
+PRODUCAO: AMBIENTE=producao   # Sobe o arquivo de atributos para ambiente de Produção
+HTML:     --format html --OUT=reports/Relatorio.html

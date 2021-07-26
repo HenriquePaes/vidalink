@@ -1,0 +1,41 @@
+ios:
+  login:
+    btn_entrar:
+      tipo_busca: ''
+      value: ''
+    campo_email:
+      tipo_busca: ''
+        value: ''
+    campo_cpf:
+      tipo_busca: ''
+      value: ''
+    campo_data_nascimento:
+      tipo_busca: ''
+      value: ''
+    btn_proximo:
+      tipo_busca: ''
+      value: ''
+    campo_token_sms:
+      tipo_busca: ''
+      value: ''
+android:
+  login:
+    btn_entrar:
+      tipo_busca: ''
+      value: ''
+    campo_email:
+      tipo_busca: ''
+        value: ''
+    campo_cpf:
+      tipo_busca: ''
+      value: ''
+    campo_data_nascimento:
+      tipo_busca: ''
+      value: ''
+    btn_proximo:
+      tipo_busca: ''
+      value: ''
+    campo_token_sms:
+      tipo_busca: ''
+      value: ''
+      
